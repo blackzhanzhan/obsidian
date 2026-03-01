@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教资复习/plan.md",
+                "file": "教资复习/力学/牛顿第二定理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan"
+              "title": "牛顿第二定理"
             }
           }
         ]
@@ -187,8 +187,8 @@
   "active": "deb7964fc1eaef54",
   "lastOpenFiles": [
     "教资复习/力学/平抛运动.md",
-    "教资复习/力学/牛顿第二定理.md",
     "教资复习/plan.md",
+    "教资复习/力学/牛顿第二定理.md",
     "教资复习/错题分析（客观题）/电磁学.md",
     "教资复习/错题分析（客观题）",
     "教资复习/教资实战开发日志 V2.0：基于 OOP 的物理教案架构与踩坑记录.md",
