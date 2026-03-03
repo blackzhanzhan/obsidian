@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教资复习/力学/实验/机械能守恒.md",
+                "file": "教资复习/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机械能守恒"
+              "title": "plan"
             }
           }
         ],
@@ -199,8 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e097faa0438c8a02",
+  "active": "2e368e382c48fb65",
   "lastOpenFiles": [
+    "教资复习/力学/理论/牛顿第一定理.md",
+    "教资复习/力学/实验/机械能守恒.md",
     "教资复习/力学/理论",
     "教资复习/力学/实验/动能定理.md",
     "教资复习/力学/实验/胡克定理.md",
@@ -224,7 +226,6 @@
     "教资复习/力学/实验/力的合成与分解.md",
     "教资复习/力学/实验",
     "教资复习/力学/实验/平抛运动.md",
-    "教资复习/力学/实验/机械能守恒.md",
     "教资复习/教案复习方法，遗忘用.md",
     "未命名.md",
     "教案复习方法，遗忘用.md",
@@ -242,7 +243,6 @@
     "教资复习/img/Pasted image 20260221204942.png",
     "教资复习/img/Pasted image 20260221220135.png",
     "教资复习/img/Pasted image 20260221214015.png",
-    "教资复习",
     "欢迎.md"
   ]
 }
