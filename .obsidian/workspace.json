@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教资复习/电磁学/实验/小灯泡伏安特性曲线.md",
+                "file": "教资复习/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小灯泡伏安特性曲线"
+              "title": "plan"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "2e368e382c48fb65",
   "lastOpenFiles": [
-    "教资复习/电磁学/实验/楞次定理.md",
+    "教资复习/电磁学/实验/测定金属丝电阻值.md",
     "教资复习/电磁学/实验/小灯泡伏安特性曲线.md",
+    "教资复习/电磁学/实验/楞次定理.md",
     "CS复盘/3月2日复盘.md",
     "CS复盘/img/Pasted image 20260302161427.png",
     "CS复盘/img",
