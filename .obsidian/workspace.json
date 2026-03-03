@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教资复习/力学/理论/向心力.md",
+                "file": "教资复习/电磁学/理论/电场强度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向心力"
+              "title": "电场强度"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "2e368e382c48fb65",
   "lastOpenFiles": [
-    "教资复习/plan.md",
     "教资复习/力学/理论/向心力.md",
+    "教资复习/电磁学/理论/电场强度.md",
+    "教资复习/电磁学/理论",
+    "教资复习/plan.md",
     "教资复习/力学/理论/牛顿第一定理.md",
     "教资复习/力学/实验/机械能守恒.md",
     "教资复习/力学/理论",
@@ -236,7 +238,6 @@
     "教资复习/错题分析（客观题）",
     "教资复习/力学",
     "教资复习/img/Pasted image 20260221184224.png",
-    "教资复习/img",
     "教资复习/img/Pasted image 20260221221052.png",
     "教资复习/img/Pasted image 20260221220140.png",
     "教资复习/img/Pasted image 20260221215720.png",
