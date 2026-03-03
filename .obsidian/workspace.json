@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教资复习/plan.md",
+                "file": "教资复习/电磁学/实验/法拉第电磁感应.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan"
+              "title": "法拉第电磁感应"
             }
           }
         ],
@@ -201,9 +201,10 @@
   },
   "active": "2e368e382c48fb65",
   "lastOpenFiles": [
+    "教资复习/plan.md",
+    "教资复习/电磁学/实验/法拉第电磁感应.md",
     "教资复习/电磁学/实验/测定电源的电动势和内阻.md",
     "教资复习/电磁学/实验/测定金属丝电阻值.md",
-    "教资复习/plan.md",
     "教资复习/电磁学/实验/小灯泡伏安特性曲线.md",
     "教资复习/电磁学/实验/楞次定理.md",
     "CS复盘/3月2日复盘.md",
