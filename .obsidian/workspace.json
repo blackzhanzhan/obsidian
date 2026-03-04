@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教资复习/其他/玻尔原子模型与跃迁.md",
+                "file": "教资复习/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "玻尔原子模型与跃迁"
+              "title": "plan"
+            }
+          },
+          {
+            "id": "9f6fe67e8660e67c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "教资复习/计算题plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算题plan"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,15 +213,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e368e382c48fb65",
+  "active": "9f6fe67e8660e67c",
   "lastOpenFiles": [
-    "教资复习/其他/双缝干涉实验.md",
+    "教资复习/plan.md",
+    "教资复习/计算题plan.md",
     "教资复习/其他/玻尔原子模型与跃迁.md",
+    "教资复习/其他/双缝干涉实验.md",
     "教资复习/其他/光的折射.md",
     "教资复习/电磁学/理论/LC震荡电路.md",
     "教资复习/其他",
-    "教资复习/未命名.md",
-    "教资复习/plan.md",
+    "教资复习/计算题plan.md",
     "教资复习/电磁学/理论/动生电动势.md",
     "教资复习/电磁学/理论/安培力和洛伦兹力.md",
     "教资复习/电磁学/理论/电场强度.md",
@@ -237,7 +252,6 @@
     "教资复习/力学/实验/力的合成与分解.md",
     "教资复习/力学/实验",
     "教资复习/力学/实验/平抛运动.md",
-    "教资复习/教案复习方法，遗忘用.md",
     "教资复习/错题分析（客观题）",
     "教资复习/img/Pasted image 20260221184224.png",
     "教资复习/img/Pasted image 20260221221052.png",
